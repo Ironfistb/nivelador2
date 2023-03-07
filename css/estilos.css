@@ -1,0 +1,8 @@
+
+.naranja { color: rgb(204, 113, 22);
+    font-weight: bold; }
+
+.ancho {
+    max-width: 540px;
+    background-color: antiquewhite;
+}    
